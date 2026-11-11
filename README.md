@@ -1,7 +1,8 @@
 <div align="center">
 
-<img src="assets/screenshot.png" alt="1FileCompiler help screen" width="820">
-
+<img src="https://raw.githubusercontent.com/DeadSec0Chair/1FileCompiler/main/screenshot.png"
+     alt="1FileCompiler help screen"
+     width="820">
 <br><br>
 
 # 1FileCompiler
