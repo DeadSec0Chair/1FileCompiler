@@ -11,7 +11,6 @@ A simple Bash tool to compile C, C++, and Rust source files into Windows `.exe` 
 - Supports C, C++, and Rust.
 - Generates Windows `.exe` executables.
 - Supports 32-bit and 64-bit architectures.
-- Automatically detects the programming language.
 - Checks required compilers and dependencies.
 - Offers automatic dependency installation.
 - Creates a global terminal command.
