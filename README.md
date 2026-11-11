@@ -34,7 +34,10 @@ chmod +x CompilerExe.sh
 ### Usage
 
 ```bash
-./CompilerExe.sh -f main.cpp
+Usage: 1FileCompiler.sh -f <source_file> -l <language> -o <output.exe> [-a <arch>]
+       1FileCompiler.sh --install
+       1FileCompiler.sh --shortcut
+       1FileCompiler.sh --remove-shortcut
 ```
 
 ### Examples
