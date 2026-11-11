@@ -44,16 +44,16 @@ Usage: 1FileCompiler.sh -f <source_file> -l <language> -o <output.exe> [-a <arch
 
 ```bash
 # Compile C
-./CompilerExe.sh -f main.c -l c
+./CompilerExe.sh -f main.c -l c -o main.exe
 
 # Compile C++
-./CompilerExe.sh -f main.cpp -l cpp
+./CompilerExe.sh -f main.cpp -l cpp -o main.exe
 
 # Compile Rust
-./CompilerExe.sh -f main.rs -l rust
+./CompilerExe.sh -f main.rs -l rs -o main.exe 
 
 # Build for 32-bit Windows
-./CompilerExe.sh -f main.cpp -a 32
+./CompilerExe.sh -f main.cpp -o main.exe -a 32
 
 # Set output filename
 ./CompilerExe.sh -f main.cpp -o app.exe
